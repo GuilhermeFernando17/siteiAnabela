@@ -1,0 +1,67 @@
+Body{
+background-color:#d2d2c1 ;
+font-family:Arial, Helvetica, sans-serif ;
+font-size:16;
+     
+}
+
+
+
+      
+      .principal {
+        border:1px solid trasparent;
+        width: 900px;
+
+      
+      }
+
+      .opcoes   {
+        border:1px solid trasparent;
+        padding: 18px;
+
+    
+        background-color:#c5c5b2;
+
+
+      }
+     .texto{
+      background-color:#e8e8d9;
+    
+      padding:10px ;
+     }
+
+     .titulo{
+     color:#828271;
+       font-size:1.2em;
+     }
+
+     .fotos{
+     /* border: 3px solid #DEB887 ;  width: 50%;
+      margin: auto;
+      display: block; */  
+    border: 10px solid #c3c3ae;
+     width: 50%;
+     margin: auto;
+     display: block;
+
+
+
+     }
+          
+
+    a{
+       color:#4b566a;
+       text-decoration:none;
+       font-weight:bold ;
+    
+       padding:5px;
+
+
+
+    }
+
+    #direitos{
+      text-align:center ;
+      padding:20px;
+      font-weight: bold;
+    }
